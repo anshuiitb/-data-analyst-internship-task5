@@ -36,7 +36,7 @@ Make sure you have Python 3.x installed with:
 
 ## 🚀 How to Run
 1. Clone this repository:
-git clone <(https://github.com/anshuiitb/-data-analyst-internship-task5)>.git
+git clone https://github.com/anshuiitb/-data-analyst-internship-task5.git
 cd <-data-analyst-internship-task5>
 
 2. Open the notebook in Jupyter/Colab/VS Code:
